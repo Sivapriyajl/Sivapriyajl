@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and its Applications
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me sivapriyajl99@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
